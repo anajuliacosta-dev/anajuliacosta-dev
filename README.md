@@ -35,9 +35,9 @@ Construir uma carreira sólida na área de **Desenvolvimento de Software**, part
 - **Soft Skills:** Trabalho em Equipe, Aprendizado Contínuo, Proatividade e Adaptabilidade.
 
 ### 🔹 Tecnologias e Habilidades em Desenvolvimento
-- ** Linguagens: ** C, JavaScript.
-- ** Front-End Web: ** HTML, CSS.
-- ** Banco de dados: ** MySQL.
+- **Linguagens:** C, JavaScript.
+- **Front-End Web:** HTML, CSS.
+- **Banco de dados:** MySQL.
 
 ---
 
