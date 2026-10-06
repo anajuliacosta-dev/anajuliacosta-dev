@@ -34,17 +34,17 @@ Construir uma carreira sólida na área de **Desenvolvimento de Software**, part
 - **Soft Skills:** Trabalho em Equipe, Aprendizado Contínuo, Proatividade e Adaptabilidade.
 
 ### 🔹 Tecnologias e Habilidades em Desenvolvimento
-- **Linguagens:** C, JavaScript.
+- **Linguagens:**
   
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Front-End Web:** HTML, CSS.
+- **Front-End Web:**
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Banco de dados:** MySQL.
+- **Banco de dados:**
   
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -62,8 +62,8 @@ Construir uma carreira sólida na área de **Desenvolvimento de Software**, part
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anajuliacosta.dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anajuliacosta920@gmail.com)
 
-- **LinkedIn:** [Ana Julia Costa](https://www.linkedin.com/in/anajuliacosta920/)
-- **YouTube:** [Ana Julia Costa](https://www.youtube.com/@anajuliacosta.dev920)
+- **LinkedIn:** [anajuliacosta920](https://www.linkedin.com/in/anajuliacosta920/)
+- **YouTube:** [@anajuliacosta.dev920](https://www.youtube.com/@anajuliacosta.dev920)
 - **Instagram:** [@anajuliacosta.dev](https://www.instagram.com/anajuliacosta.dev/)
 - **Contato Profissional:** anajuliacosta920@gmail.com
 
